@@ -1,0 +1,168 @@
+{
+	"owner": {
+		"id": 1,
+		"name": "Bruna Loureiro",
+		"image": "https://i.imgur.com/ewE5kAt.png",
+		"sharing": 23
+	},
+	"sharedItems": [
+		{
+			"name": "Vestidos",
+			"items": [
+				{
+					"id": "0.18321059649881884",
+					"image": "https://i.imgur.com/EzU4BAh.png",
+					"categoryId": 1,
+					"size": "P",
+					"color": "Preto"
+				},
+				{
+					"id": "0.5723455860895202",
+					"image": "https://i.imgur.com/ya8HcaM.png",
+					"categoryId": 1,
+					"size": "P",
+					"color": "Azul"
+				},
+				{
+					"id": "0.9073134630298425",
+					"image": "https://i.imgur.com/xo4vWpN.png",
+					"categoryId": 1,
+					"size": "M",
+					"color": "Roxo"
+				}
+			]
+		},
+		{
+			"name": "Blusas e camisetas",
+			"items": [
+				{
+					"id": "0.7546879659085313",
+					"image": "https://i.imgur.com/1MfVYxH.png",
+					"categoryId": 2,
+					"size": "G",
+					"color": "Amarelo"
+				},
+				{
+					"id": "0.6286187413735358",
+					"image": "https://i.imgur.com/TMfc3bo.png",
+					"categoryId": 2,
+					"size": "36",
+					"color": "Preto"
+				},
+				{
+					"id": "0.215688671013123",
+					"image": "https://i.imgur.com/OKkoolF.png",
+					"categoryId": 2,
+					"size": "38",
+					"color": "Preto"
+				},
+				{
+					"id": "0.4938522896765896",
+					"image": "https://i.imgur.com/EzU4BAh.png",
+					"categoryId": 2,
+					"size": "P",
+					"color": "Preto"
+				}
+			]
+		},
+		{
+			"name": "Bolsas",
+			"items": [
+				{
+					"id": "0.15041879905482857",
+					"image": "https://i.imgur.com/AJdjjXk.png",
+					"categoryId": 3,
+					"size": "P",
+					"color": "Azul"
+				},
+				{
+					"id": "0.9016316262394464",
+					"image": "https://i.imgur.com/gorSxF3.png",
+					"categoryId": 3,
+					"size": "G",
+					"color": "Amarelo"
+				},
+				{
+					"id": "0.7144921291775031",
+					"image": "https://i.imgur.com/Cgih1Jk.png",
+					"categoryId": 3,
+					"size": "38",
+					"color": "Roxo"
+				},
+				{
+					"id": "0.5810453966176714",
+					"image": "https://i.imgur.com/ya8HcaM.png",
+					"categoryId": 3,
+					"size": "P",
+					"color": "Azul"
+				},
+				{
+					"id": "0.4641495426378135",
+					"image": "https://i.imgur.com/xo4vWpN.png",
+					"categoryId": 3,
+					"size": "M",
+					"color": "Sem Cor"
+				}
+			]
+		},
+		{
+			"name": "Botas",
+			"items": [
+				{
+					"id": "0.24598645876811345",
+					"image": "https://i.imgur.com/AJdjjXk.png",
+					"categoryId": 4,
+					"size": "40",
+					"color": "Bege"
+				},
+				{
+					"id": "0.18854445131517742",
+					"image": "https://i.imgur.com/gorSxF3.png",
+					"categoryId": 4,
+					"size": "52",
+					"color": "Cinza"
+				},
+				{
+					"id": "0.5666340240459866",
+					"image": "https://i.imgur.com/Cgih1Jk.png",
+					"categoryId": 4,
+					"size": "34",
+					"color": "Lilás"
+				},
+				{
+					"id": "0.14205464577741783",
+					"image": "https://i.imgur.com/ya8HcaM.png",
+					"categoryId": 4,
+					"size": "12",
+					"color": "Branco"
+				},
+				{
+					"id": "0.9291614874356588",
+					"image": "https://i.imgur.com/xo4vWpN.png",
+					"categoryId": 4,
+					"size": "10",
+					"color": "Rosa pink"
+				}
+			]
+		},
+		{
+			"name": "Batons",
+			"items": [
+				{
+					"id": "0.12126261175529984",
+					"image": "https://i.imgur.com/AJdjjXk.png",
+					"categoryId": 4,
+					"size": "Sem tamanho",
+					"color": "Vermelho"
+				},
+				{
+					"id": "0.9833473512761889",
+					"image": "https://i.imgur.com/gorSxF3.png",
+					"categoryId": 4,
+					"size": "Sem tamanho",
+					"color": "Vinho"
+				}
+			]
+		}
+	]
+}

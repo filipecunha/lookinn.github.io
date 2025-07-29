@@ -1,0 +1,10 @@
+[
+	{ "id": "1", "label": "Camisetas" },
+	{ "id": "2", "label": "Vestidos" },
+	{ "id": "3", "label": "Calças" },
+	{ "id": "4", "label": "Saias" },
+	{ "id": "5", "label": "Casacos" },
+	{ "id": "6", "label": "Sapatos" },
+	{ "id": "7", "label": "Bolsas" },
+	{ "id": "8", "label": "Acessórios" }
+]

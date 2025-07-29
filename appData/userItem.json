@@ -1,0 +1,30 @@
+{
+	"owner": {
+		"id": "1",
+		"name": "Bruna Loureiro",
+		"image": "https://i.imgur.com/ewE5kAt.png",
+		"sharing": 23
+	},
+	"item": {
+		"id": "123",
+		"category": {
+			"id": "2",
+			"label": "Vestidos"
+		},
+		"size": {
+			"id": "2",
+			"label": "P"
+		},
+		"color": {
+			"id": "3",
+			"label": "Branco"
+		},
+		"images": [
+			"https://i.imgur.com/EzU4BAh.png",
+			"https://i.imgur.com/ya8HcaM.png",
+			"https://i.imgur.com/xo4vWpN.png",
+			"https://i.imgur.com/1MfVYxH.png",
+			"https://i.imgur.com/TMfc3bo.png"
+		]
+	}
+}
