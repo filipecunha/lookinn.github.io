@@ -1,0 +1,76 @@
+{
+	"contacts": [
+		{
+			"id": "1",
+			"name": "Lucas Fernandes",
+			"image": "https://i.imgur.com/QkIa5tT.jpeg",
+			"sharing": 23
+		},
+		{
+			"id": "2",
+			"name": "Bruna Loureiro",
+			"image": "https://i.imgur.com/1twoaDy.jpeg",
+			"sharing": 10
+		},
+		{
+			"id": "4",
+			"name": "Simone Andres",
+			"image": "https://i.imgur.com/cHddUCu.jpeg",
+			"sharing": 1
+		},
+		{
+			"id": "5",
+			"name": "Anderson Nobre",
+			"image": "https://i.imgur.com/R2PN9Wq.jpeg",
+			"sharing": 0
+		}
+	],
+	"receivedResquests": [
+		{
+			"id": "5",
+			"name": "Anderson Nobre",
+			"image": "https://i.imgur.com/R2PN9Wq.jpeg",
+			"sharing": 0
+		},
+		{
+			"id": "1",
+			"name": "Lucas Fernandes",
+			"image": "https://i.imgur.com/QkIa5tT.jpeg",
+			"sharing": 23
+		},
+		{
+			"id": "4",
+			"name": "Simone Andres",
+			"image": "https://i.imgur.com/cHddUCu.jpeg",
+			"sharing": 1
+		},
+		{
+			"id": "2",
+			"name": "Bruna Loureiro",
+			"image": "https://i.imgur.com/1twoaDy.jpeg",
+			"sharing": 10
+		}
+	],
+	"sentResquests": [
+		{
+			"id": "1",
+			"name": "Lucas Fernandes",
+			"image": "https://i.imgur.com/QkIa5tT.jpeg",
+			"sharing": 23
+		}
+	],
+	"blockedContacts": [
+		{
+			"id": "4",
+			"name": "Simone Andres",
+			"image": "https://i.imgur.com/cHddUCu.jpeg",
+			"sharing": 1
+		},
+		{
+			"id": "2",
+			"name": "Bruna Loureiro",
+			"image": "https://i.imgur.com/1twoaDy.jpeg",
+			"sharing": 10
+		}
+	]
+}
